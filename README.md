@@ -1,2 +1,4 @@
 # DisplayNoches
-An Extension to get Display Cutout information
+An extension for MIT App Inventor 2.
+Created by: th
+Compiled by: FAST
